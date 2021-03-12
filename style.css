@@ -1,12 +1,15 @@
 .list {
   border: 1px solid black;
 }
+
 .list1 {
   color: red;
 }
+
 .table {
   border: 1px solid blue;
 }
+
 .table1 {
-  color:aqua
+  color: aqua;
 }
